@@ -1,0 +1,46 @@
+body {
+    background: orangered;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    height:100%;
+    }
+
+
+.wrapper {
+    background-color: white; 
+    border-radius: 0; /* Remove the border-radius */
+    margin: 10% auto; 
+    padding: 20px;
+    width: 200px; 
+    height: 300px; /* Set height to match the width to create a square */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+}
+
+h1 {
+    font-size: 24px;
+    margin: 0;
+    color: red; 
+}
+
+h2 {
+    font-size: 16px;
+    margin: 10px 0;
+    color: green; 
+}
+
+p {
+    font-size: 36px;
+    margin: 20px 0;
+    color: black; 
+}
+
+button {
+    font-size: 16px;
+    padding: 5px 10px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: purple; 
+    color: black;
+    border: none;
+    border-radius: 20px; 
+}
+
